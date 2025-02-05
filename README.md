@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries or feedback, please contact:
-- **Email:** your.email@example.com
+- **Email:** mahabublam407557@gmail.com
 - **Phone:** +1234567890
 
 ---
